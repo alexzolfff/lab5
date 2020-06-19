@@ -35,6 +35,7 @@
 **Код программы:**
 ```cpp
 #include <iostream>
+#include "pch.h"
 #include <fstream>
 #include <vector>
 #include <string>
